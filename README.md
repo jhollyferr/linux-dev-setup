@@ -1,4 +1,4 @@
-# linux-setup
+# linux-dev-setup
 linux development environment settings
 
 MYSQL (v8+)
